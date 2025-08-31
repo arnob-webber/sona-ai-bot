@@ -42,5 +42,5 @@ app.post("/chat", async (req, res) => {
   }
 });
 
-// ✅ Start server
-app.listen(3000, () => console.log("✅ Server running at http://localhost:3000"));
+// // ✅ Start server
+// app.listen(3000, () => console.log("✅ Server running at http://localhost:3000"));
